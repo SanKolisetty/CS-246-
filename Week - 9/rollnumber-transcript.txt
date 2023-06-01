@@ -1,0 +1,87 @@
+ Indian Institutte of Technology Guwahati
+
+Programme Duration: 4 years                      Semesters:Eight(8)
+
+Name:  ABHAY PRATAP GANGWAR                      Roll Number: 180101002
+
+Semester     Course          CourseName                                                              Cr
+1             CH101           Chemistry                                        AA
+1             CH110           Chemistry Lab                                    DD
+1             MA101           Mathematics-1                                    AA
+1             HS100           English Communication                            BB
+1             EE101           Basic Electronics                                AA
+1             ME111           Engineering Drawing                              DD
+1             PH101           Physics-1                                        CC
+1             PH110           Physics Lab/ME110 Workshop                       CD
+
+2             BT101           Introductory Biology                             CC
+2             CS101           Introduction to Computing                        CD
+2             CS110           Computing Lab                                    CC
+2             EE110           Basic Electronics Laboratory                     CC
+2             ME110           Workshop/PH110 Physics Lab                       BB
+2             ME101           Engineering Mechanics                            DD
+2             MA102           Mathematics-2                                    BB
+2             PH102           Physics-2                                        CD
+2             SA101           Students Activity Course-1                       BC
+
+3             CS201           Discrete Mathematics                             CD
+3             CS203           Algorithms and Data Structures                   AA
+3             CS204           Algorithms and Data Structures Lab               BC
+3             CS242           System Software Lab                              BB
+3             CS221           Digital Design                                   BC
+3             MA225           Probability Theory and Random Processes          AA
+3             MA222           Elementary Number Theory and Algebra             CC
+3             SA201           Students Activity Course-2                       BB
+3             XX103M                  Minor-1                                  BB
+
+4             CS207           Design and Analysis of Algorithms                AA
+4             CS223           Computer Architecture and Organization           BB
+4             CS224           Hardware Lab                                     DD
+4             CS245           Database Management Systems                      CC
+4             CS246           Database Management Systems Lab                  BC
+4             HS101           HSS1-1                                           BB
+4             SA301           Students Activity Course-3                       AA
+4             CS205           Formal Languages Automata Theory and Computation BC
+4             XX104M                  Minor-2                                  AA
+
+5             CS342           Computer Networks Lab                            AA
+5             CS343           Operating Systems                                CD
+5             CS344           Operating Systems Lab                            DD
+5             CS501           Departmental Elective 5.1                        CC
+5             XX105M                  Minor-3                                  CD
+5             HS102           HSS1-2                                           AA
+5             SA401           Students Activity Course-4                       DD
+5             MA321           Optimization                                     BB
+5             CS341           Computer Networks                                CC
+
+6             CS346           Software Engineering Lab                         DD
+6             CS345           Software Engineering                             BB
+6             CS405           Departmental Elective Lab 6.3                    BC
+6             CS404           Departmental Elective 6.2                        DD
+6             CS403           Departmental Elective 6.1                        BB
+6             CS361           Machine Learning                                 BB
+6             XX101M                  Minor-4                                  AA
+6             CS348           Implementation of Programming Languages Lab      BC
+
+7             OE101           Open Elective 1                                  AB
+7             HS201           HSS-2-1                                          BB
+7             CS401           Elective 7.2                                     DD
+7             XX102M                  Minor 5                                  AB
+7             CS498           BTP Phase - 1                                    DD
+7             OE102           Open Elective 2/CS101 Elective 7.1               BC
+
+8             OE201           Open Elective 3                                  AB
+8             OE202           Open Elective 4                                  DD
+8             CS499           BTP Phase - 2                                    AB
+8             HS202           HSS-2-2                                          BC
+8             CS402           Elective 8.1                                     CD
+
+Semester: 1  SPI: 7.6977
+Semester: 2  SPI: 5.8605
+Semester: 3  SPI: 7.7292
+Semester: 4  SPI: 7.5217
+Semester: 5  SPI: 6.7273
+Semester: 6  SPI: 7.1628
+Semester: 7  SPI: 6.4286
+Semester: 8  SPI: 7.1667
+CPI: 7.0493
