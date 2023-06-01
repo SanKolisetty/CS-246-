@@ -1,0 +1,348 @@
+BT 101,Introductory Biology
+BT 201,Biochemical Process Calculations
+BT 201M,Essentials of Biochemistry
+BT 202,Bio-thermodynamics
+BT 202M,Molecular Biotechnology
+BT 203,Biochemistry
+BT 204,Genetics
+BT 205,Cell and Molecular Biology
+BT 206,Microbiology
+BT 207,Genetic Engineering
+BT 208,Transport Phenomenon in Bioprocesses
+BT 209,Bioreaction Engineering
+BT 211,Basic Biotechnology Lab
+BT 302M,Bioprocess Technology
+BT 304,Immunology
+BT 305,Computational Biology
+BT 306,Bioseparation Engineering
+BT 307,Biological Data Analysis
+BT 308,Bioengineering
+BT 402,BTech Project-II
+BT 502,Quantitative Biology
+BT 504,Biomolecular and Cellular Process Engineering
+BT 522,Advanced Bioengineering
+BT 523,Metabolic Engineering
+BT 524,Bioinstrumentation & Control
+BT 540,Applied Bioengineering Lab
+BT 601,Analytical Biotechnology
+BT 607,Plant Biotechnology
+BT 608,Microbial Biotechnology
+BT 616,Molecular Virology
+BT 619,Essentials of Genetics
+BT 624,Fluorescence Techniques in Biotechnology
+BT 630,Physical Cell Biology
+BT 634,Animal Models in Biomedical Research
+BT 638,Cellular And Molecular Aspects of Aging
+BT 640,Neural Imaging and Signal Systems
+BT 651,Quantum Chemistry of atoms and molecules
+BT 699,M. Tech Project II (MTP II)
+CE 201,Surveying
+CE 205,Structural Analysis I
+CE 206,Geotechnical Engineering
+CE 213,Surveying Laboratory
+CE 215,Geotechnical Engineering Laboratory
+CE 220,Hydraulics and Hydraulic Structures
+CE 221,Hydraulics and Hydraulic Structures Laboratory
+CE 222,Environmental Engineering I
+CE 223,Environmental Engineering I Lab
+CE 308,Construction Technology and Management
+CE 309,Design of Steel Structures
+CE 320,Engineering Hydrology
+CE 321,Hydrology Laboratory
+CE 322,Transportation Engineering II
+CE 323,Transportation Engineering II - Laboratory
+CE 324,Mathematical Concepts and Applications in Civil Engineering
+CE 499,BTP Phase II
+CE 504,Advanced Structural Design
+CE 510,Quality and Safety Management in Construction
+CE 511,Analysis and Design of Bridges
+CE 524,Biological Process in Environmental Engineering
+CE 525,Solids and Hazardous Waste
+CE 533,Advance Foundation Engineering
+CE 534,Seminar Course
+CE 544,Project Management Laboratory
+CE 550,Project and Thesis Phase II
+CE 555,Principles of Water Quality and EIA
+CE 556,Subsurface Hydrology
+CE 559,Watershed Management and Remote Sensing Applications
+CE 562,Transient Flow Analysis
+CE 570,River Engineering
+CE 573,Seismic Evaluation and Retrofitting of Structures
+CE 583,Pavement Analysis and Design
+CE 584,Traffic Engineering
+CE 585,Credit Seminar
+CE 594,Geohazards Science and Engineering
+CE 595,Advanced Techniques in Geosciences
+CE 599,M Tech Project Phase II
+CE 606,Earthquake Engineering
+CE 607,Random Vibration
+CE 608,Reliability based Structural Design
+CE 609,Computation Plasticity
+CE 612,Advanced Concrete Technology
+CE 615,Design of Masonry Structures
+CE 616,Blast and Impact Resistant Design
+CE 618,Mechanics of Unsaturated Soils
+CE 622,Geometric Design of Transportation Facilities
+CE 623,Pavement Evaluation Rehabilitation and Maintenance
+CE 628,Traffic Flow Modelling and Simulation
+CE 641,Reinforced Soil Structures
+CE 643,Earthquake Geotechnical Engineering
+CE 646,Rock Mechanics
+CE 648,Applied Soil Mechanics
+CE 661,Air Quality Modeling
+CE 691,M Tech Project II
+CE 693,Project and Thesis Phase II
+CE 695,M Tech Project II
+CE 697,Project and Dissertation
+CH 211,Industrial Chemistry
+CH 222,Applied Organic Chemistry
+CH 223,Chemical Technology Lab - I (Organic)
+CH 224,Group Theory
+CH 233,Spectroscopic Techniques in Chemistry
+CH 323,Polymer Chemistry
+CH 332,Computational Chemistry
+CH 334,Chemical Technology Lab - III (Physical)
+CH 335,Application of Nanomaterials
+CH 400,Computers and Chemistry
+CH 411,Inorganic Reaction Mechanism and Organometallics
+CH 418,Biological Chemistry of Metal Ions
+CH 419,Consumer Chemistry
+CH 421,Organic Reactions Mechanisms
+CH 425,Organic Chemistry Laboratory
+CH 428,Drug Design and Development
+CH 432,Chemical Dynamics and Electrochemistry
+CH 433,Applications of Spectroscopy
+CH 437,Chemical Approaches to Nanoscale Science and Technology
+CH 438,Application to Statistical Mechanics to Chemistry
+CH 499,Project - II
+CH 500,Graduate Seminar
+CH 600,Project
+CH 613,Applied Inorganic Chemistry
+CH 617,Organometallics
+CH 618,Bio-inorganic Chemistry
+CH 621,Modern Reagents in Organic Synthesis
+CH 623,Supramolecular Chemistry
+CH 627,New Reagents for Organic Synthesis
+CH 629,Advances in Bio-organic Chemistry
+CH 631,Advanced Quantum Chemistry
+CH 639,Principles and Applications of Molecular Fluorescence
+CH 644,Applied Quantum Chemistry
+CL 205,Mass Transfer Operations I
+CL 206,Solid Fluid Operations
+CL 207,Computer Aided Numerical Methods
+CL 208,Chemical Reaction Engineering I
+CL 209,Process Equipment Design I
+CL 210H,Laboratory 1: Fluid Mechanics
+CL 211H,Laboratory 2: Heat Transfer
+CL 304,Chemical Process Technology
+CL 305,Transport Phenomena
+CL 306,Process Engineering & Economics
+CL 312,Computer Aided Process Equipmen Design
+CL 313,Laboratory 4: Mass Transfer
+CL 499,Project II
+CL 503,Advanced Thermodynamics
+CL 504,Advanced reaction Engineering
+CL 505,Petroleum Production Engineering
+CL 506,Smart Materials
+CL 514,Fundamentals of Material Science & Engineering
+CL 598,Petroleum Laboratory
+CL 599,Scientific Communications
+CL 612,Colloid and Interface Science
+CL 617,Petrochemicals
+CL 618,Natural Gas Engineering
+CL 622,Molecular simulations: Principles and Applications
+CL 625,Fundamentals of micro-nanofluidics & microfabrication
+CL 626,Energy Resources
+CL 628,Catalysis and adsorbents
+CL 633,Applied Statistical Thermodynamics
+CL 643,Computer aided applied optimization
+CL 650,Quantum technologies in chemcial engineering
+CL 653,Applications of Artificial Intelligence and Machine Learning in Chemical Engineering
+CL 654,Multiscale Modelling and Simulation
+CL 699,PROJECT II
+CS 101,Introduction to Computing
+CS 110,Computing Laboratory
+CS 205,Formal Languages Automata Theory and Computation
+CS 206M,Datastructures and Algorithms
+CS 207,Design and Analysis of Algorithms
+CS 223,Computer Architecture and Organization
+CS 224,Hardware Lab
+CS 245,Database Management Systems
+CS 246,Database Management Systems Lab
+CS 321,Smart Systems Laboratory
+CS 331,Programming Languages Lab
+CS 345,Software Engineering
+CS 346,Software Engineering Lab
+CS 348,Implementation of Programming Languages Lab
+CS 350M,Computer Systems
+CS 361,Machine Learning
+CS 499,Project II
+CS 503,Randomized Algorithms
+CS 509,Computational Number Theory and Cryptography
+CS 528,High Performance Computing
+CS 549,Computer and Network Security
+CS 558,Computer Systems Lab
+CS 564,Computational Complexity
+CS 570,Fundamentals Of Information Retrieval
+CS 577,C Based VLSI Design
+CS 595,Data Visualization Lab
+CS 699,Project II
+DA 213,Python Programming Laboratory
+DA 214,Database Management Systems
+DA 215,Database Management Systems Laboratory
+DA 221,Introduction to Artificial Intelligence
+DA 221M,Artificial Intelligence
+DA 243,Introduction to Optimization
+DA 244,Applied Probability and Random Processes
+DA 526,Image Processing with Machine Learning
+DA 623,Computing with Signals
+DA 671,Introduction to Reinforcement Learning
+DD 111,Forms Order and Structure
+DD 113,Visualization and Illustrations
+DD 203,Materials and Processes
+DD 212,Visual Narratives
+DD 213,Art and Aesthetics in Design
+DD 214,Design Workshop
+DD 215,Cognitive Ergonomics
+DD 220M,Introduction to Ergonomics
+DD 302,Design Analysis
+DD 303,Typography and Grid Systems
+DD 311,Systems approach to Design
+DD 312,Design Evaluation Methods
+DD 320M,Product Planning and Strategy
+DD 324,(PD) Plastics & Composites
+DD 325,(VC) Graphic Communication
+DD 411,Design and Entrepreneurship
+DD 499,BDes Project IV
+DD 505,Form Studies
+DD 506,Graphic Design
+DD 507,Design Project
+DD 509,Interaction Design
+DD 517,Automobile Design
+DD 521,System Design For Sustainability
+DD 523,Creative Furniture Design
+DD 524,Graphic Design Studio
+DD 532,Motion Graphics
+DD 536,Additive manufacturing
+DD 546,Product Form and Structures
+DD 547,Design for Environmental Sustainability
+DD 549,Systems thinking
+DD 552,Design of Embedded Systems
+DD 554,Pattern Recognition and Machine Learning
+DD 555,IoT Enabled Smart Grids
+DD 557,Fundamentals of Sensors and their Applications
+DD 605,Thesis Project (Phase II)
+DD 606,Product Detailing
+DD 607,Creativity and Innovation
+DD 705,Design Research Methods
+DD 709,Design-based Project
+DD 710,Research-based Project
+EE 102,Basic Electronics Lab
+EE 206,Analog Circuits
+EE 207,Analog Circuits Laboratory
+EE 213M,Digital Circuits
+EE 230,Probability and Random Processes
+EE 250,Control Systems
+EE 252,Measurement and Instrumentation
+EE 253,Instrumentation Laboratory
+EE 313,Microelectronics Laboratory
+EE 322M,Signal Processing
+EE 332,Digital Communication
+EE 333,Communication and DSP Laboratory
+EE 334,Computer networks
+EE 335,Information Theory & Coding
+EE 336,Modelling and Simulation of Stochastic Systems
+EE 352,Advanced Control System
+EE 360,Power Electronics
+EE 370,Electrical Power Systems
+EE 371,Advanced Electrical Engg Lab
+EE 381,Electrical Machines Lab
+EE 390,Data structure and algorithms
+EE 396,Design Lab
+EE 399,BTP II (New Curriculum)
+EE 499,B. Tech Project-IV
+EE 512,Analog IC Design
+EE 515,VLSI System Design
+EE 516,VLSI DSP
+EE 517,VLSI Lab-II
+EE 518,VLSI Lab-III
+EE 521,Digital Signal Processing Lab
+EE 522,Statistical Signal Processing
+EE 525,Advanced Topics in Machine Learning
+EE 526,Machine Learning
+EE 527,Machine Learning Laboratory
+EE 533,Wireless Communications
+EE 534,Communication System Design Lab
+EE 535,Data Communication Network
+EE 540,Advance Electromagnetic Theory and Antennas
+EE 548,RF Laboratory
+EE 549,Photonics Integrated Circuits
+EE 553,Optimal Control
+EE 554,Nonlinear Systems and Control
+EE 555,Automation Laboratory
+EE 557,Optimization
+EE 562,Power Electronics Applications in Power Systems
+EE 572,Power Engineering Laboratory
+EE 580,Electrical Machines and Drive Systems
+EE 592,Detection and Estimation Theory
+EE 595H,Stochastic Models
+EE 596H,Optimization Techniques
+EE 602,Adaptive and Learning-based Control
+EE 613,Radio Frequency Integrated Circuits
+EE 620,Image Processing
+EE 622,Biomedical Signal Processing
+EE 624,Speech Technology
+EE 626,Pattern Recognition and Machine Learning
+EE 632,Advanced Topics in Communication Systems
+EE 633,Error Control Codes
+EE 640,Modeling & Simulation of Advanced Nanoscale Devices
+EE 643,Silicon Photonics
+EE 647,Microsensors and Nanosensors
+EE 665,Power Electronic Systems for Electric Vehicles
+EE 674,Synchrophasor Technology
+EE 694,Introduction to Parallel Computing
+EE 699,MTP Phase II
+HS 107,Problems Of Philosophy
+HS 116,Sociology of India: Conformities and Contradictions
+HS 125,Macroeconomics
+HS 128,Introduction to Psychology
+HS 134,Introduction to Archaeology
+HS 135,Topics in Bilingualism
+HS 136,Introduction to Indian Constitution and Political Processes
+HS 138,Psychology of Well-Being
+HS 155,Introductory Mathematical Economics
+HS 156,Economics of Health and Education
+HS 161,The Novel and Magic Realism
+HS 200,Sustainable Development Goals
+HS 207,Concepts and Ideologies in Social Life
+HS 216,Investigating Justice in Detective Fiction
+HS 222,PHILOSOPHY OF SCIENCE
+HS 232M,Linguistic Analysis
+HS 233,History of Contemporary India
+HS 235,WRITING SYSTEMS OF THE WORLD
+HS 239,Economics of Uncertainty and Information
+HS 242,Transboundary Waters: Conflict and Cooperation
+HS 244,Indian Business History
+HS 248,Indian Literary Theory
+HS 251,Social Choice and Welfare
+HS 252,Pandemics Health and Society
+HS 320M,Literature and film: the word and the image
+HS 503,Sociology of Development
+HS 506,Interrogating Modernity
+HS 513,Transnationalism and Migration: Issues of Development
+HS 517,Comparative Politics of Developing Countries
+HS 523,Economic Development: Theory and Practice
+HS 524,Qualitative Research Methods in Social Sciences
+HS 525,Indias Development: Issues and Debates
+HS 551,Foundational Linguistics
+HS 553,History and Philosophy of Science
+HS 556,Introduction to Literary Studies
+HS 559,Indian Literary Theory
+HS 561,Historical Studies
+HS 563,Early Womens Writing in English
+HS 564,Psychoanalysis and the Social Bond
+HS 565,Social Meta-theory
+HS 603,International Trade and Development
+HS 699,Dissertation
+HS 702,Contemporary Studies in Philosophy (Seminar)
+HS 703,A Compendium-Literature Language and Literary Criticism.
